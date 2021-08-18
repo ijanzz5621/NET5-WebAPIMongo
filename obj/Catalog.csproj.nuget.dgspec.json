@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\NET5\\Catalog\\Catalog.csproj": {}
+    "C:\\Projects\\dotnet\\NET5-WebAPIMongo\\Catalog.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\NET5\\Catalog\\Catalog.csproj": {
+    "C:\\Projects\\dotnet\\NET5-WebAPIMongo\\Catalog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\NET5\\Catalog\\Catalog.csproj",
+        "projectUniqueName": "C:\\Projects\\dotnet\\NET5-WebAPIMongo\\Catalog.csproj",
         "projectName": "Catalog",
-        "projectPath": "C:\\Projects\\NET5\\Catalog\\Catalog.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\NET5\\Catalog\\obj\\",
+        "projectPath": "C:\\Projects\\dotnet\\NET5-WebAPIMongo\\Catalog.csproj",
+        "packagesPath": "C:\\Users\\SRedzuan\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\dotnet\\NET5-WebAPIMongo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\SRedzuan\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
