@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\dotnet\\NET5-WebAPIMongo\\Catalog.csproj": {}
+    "c:\\Projects\\dotnet\\NET5-WebAPIMongo\\Catalog.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\dotnet\\NET5-WebAPIMongo\\Catalog.csproj": {
+    "c:\\Projects\\dotnet\\NET5-WebAPIMongo\\Catalog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\dotnet\\NET5-WebAPIMongo\\Catalog.csproj",
+        "projectUniqueName": "c:\\Projects\\dotnet\\NET5-WebAPIMongo\\Catalog.csproj",
         "projectName": "Catalog",
-        "projectPath": "C:\\Projects\\dotnet\\NET5-WebAPIMongo\\Catalog.csproj",
+        "projectPath": "c:\\Projects\\dotnet\\NET5-WebAPIMongo\\Catalog.csproj",
         "packagesPath": "C:\\Users\\SRedzuan\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\dotnet\\NET5-WebAPIMongo\\obj\\",
+        "outputPath": "c:\\Projects\\dotnet\\NET5-WebAPIMongo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SRedzuan\\AppData\\Roaming\\NuGet\\NuGet.Config"

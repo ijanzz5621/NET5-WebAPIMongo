@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F2VUDvFFQ/K+J+BkJ6QJS9iJi9T6xipbKaHbT0myQgwiLZUiRJa1XQTV+8Ae/QRufMfSgszlmy7UnGpe37YhUA==",
+  "dgSpecHash": "p9MyEjTmJjCNkgHUaorI5QbPoHk5zvfe87xiid7LYQZCnIw617FYJ0gQyNtBLPaB7C37466h3ouF2K1TOMM/Cg==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\dotnet\\NET5-WebAPIMongo\\Catalog.csproj",
+  "projectFilePath": "c:\\Projects\\dotnet\\NET5-WebAPIMongo\\Catalog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SRedzuan\\.nuget\\packages\\aspnetcore.healthchecks.mongodb\\5.0.1\\aspnetcore.healthchecks.mongodb.5.0.1.nupkg.sha512",
     "C:\\Users\\SRedzuan\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",

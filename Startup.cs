@@ -41,8 +41,21 @@ namespace Catalog
 
             var mongoDbSettings = Configuration.GetSection(nameof(MongoDbSettings)).Get<MongoDbSettings>();
 
-            services.AddSingleton<IMongoClient>(serviceProvider => 
+            services.AddSingleton<IMongoClient>(serviceProvider =>
             {
+                /* MongoCredential credential = MongoCredential.CreateCredential("catalog", "mongoadmin", "mongoadmin");
+
+                var settings = new MongoClientSettings
+                {
+                    Credential = credential,
+                    AllowInsecureTls = true,
+                    DirectConnection = true,
+                    ReplicaSetName = "catalog",
+                    UseTls = false,
+                    Server = new MongoServerAddress("localhost", 27017),
+                };
+
+                return new MongoClient(settings); */
                 return new MongoClient(mongoDbSettings.ConnectionString);
             });
 
